@@ -1,0 +1,13 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@storybook/aem": "^0.0.8"
+  },
+  "scripts": {
+    "storybook": "start-storybook"
+  }
+}
